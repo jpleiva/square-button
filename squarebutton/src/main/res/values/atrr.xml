@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareButton">
+        <attr name="bgColor" format="string" />
+        <attr name="textColor" format="string" />
+        <attr name="radius" format="float" />
+        <attr name="text" format="string" />
+        <attr name="fontWeight" format="integer" />
+        <attr name="fontSize" format="float" />
+    </declare-styleable>
+</resources>
